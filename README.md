@@ -1,1 +1,2 @@
 ![image alt](https://github.com/anup-sys/Built-a-Smart-Text-Classifier-using-NLP-techniques-to-classify-spam-and-sentiment-using-Naive-Bayes/blob/4dab271ea61c034cbfa13d5fc481e81a2f9edd05/Screenshot%20from%202026-04-19%2019-14-39.png)
+![image alt](https://github.com/anup-sys/Built-a-Smart-Text-Classifier-using-NLP-techniques-to-classify-spam-and-sentiment-using-Naive-Bayes/blob/e185bc72135c5955deed4f0f24370d46b0717d37/Screenshot%20from%202026-04-19%2019-14-25.png)
